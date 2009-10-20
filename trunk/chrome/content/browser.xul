@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--    
+  Coprolalia Firefox Add-on
+  by Dr. Mike
+
+  This work is provided without any warranty whatsoever. Use at your own risk.
+  This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License.
+  However, we can do a Creative Commons BY-SA if you offer me to share the $$$ with me. 
+  Email: coprolalia.web@gmail.com  
+-->
+<overlay id="coprolalia" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <statusbar id="status-bar">
+     <statusbarpanel id="coprolalia-panel" class="statusbarpanel-iconic" onclick="coprolalia.statusClick()"/>      
+  </statusbar>
+  <script type="application/x-javascript" src="chrome://coprolalia/content/coprolalia.js"></script>
+</overlay>
