@@ -1,0 +1,3 @@
+content coprolalia chrome/content/
+
+overlay chrome://browser/content/browser.xul  chrome://coprolalia/content/browser.xul
