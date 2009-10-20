@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!--    
+  Coprolalia Firefox Add-on
+  by Dr. Mike
+
+  This work is provided without any warranty whatsoever. Use at your own risk.
+  This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License.
+  However, we can do a Creative Commons BY-SA if you offer me to share the $$$ with me. 
+  Email: coprolalia.web@gmail.com  
+-->
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>{d8b271a6-6ed3-427d-b600-1b674e00e6ec}</em:id>
+    <em:version>0.4.2</em:version>
+    <em:type>2</em:type>
+    <em:iconURL>chrome://coprolalia/content/images/icon.png</em:iconURL>
+   
+    <!-- Firefox --> 
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>1.5</em:minVersion>
+        <em:maxVersion>3.5.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+   
+    <!-- MetaData -->
+    <em:name>Coprolalia</em:name>
+    <em:description>Enhance your fucking browsing experience</em:description>
+    <em:creator>Dr. Mike</em:creator>
+    <em:homepageURL>http://coprolalia.host-ed.net/</em:homepageURL>
+  </Description>      
+</RDF>
