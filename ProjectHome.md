@@ -1,0 +1,1 @@
+Coprolalia Firefox Add-on
