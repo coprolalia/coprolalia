@@ -1,5 +1,1 @@
-Coprolalia is involuntary swearing or the involuntary utterance of obscene words or socially inappropriate and derogatory remarks. (From Wikipedia)
-
-After you install coprolalia it will bluntly insert swearwords into the text of the web pages you visit. No clicking or anything required. Works well only on English web pages. 
-
-This is the source code repository for the Add-On. Get the Add-On at https://addons.mozilla.org/firefox/addon/coprolalia
+This addon has been discontinued and does not work with newer versions of Firefox
